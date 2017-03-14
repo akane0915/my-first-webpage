@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{My first webpage with my favorite people}, {March 14, 2017}_
+#### _My first webpage with my favorite people, March 14, 2017_
 
-#### By _**{Asia Kane and Jennifer Kinsey}**_
+#### By _**Asia Kane and Jennifer Kinsey**_
 
 ## Description
 
-_{This website was to practice making my first webpage.  We used img tags, anchor links, and other HTML tags.}_
+_This website was to practice making my first webpage.  We used img tags, anchor links, and other HTML tags._
 
 ## Setup/Installation Requirements
 
@@ -16,19 +16,19 @@ _{This website was to practice making my first webpage.  We used img tags, ancho
 
 ## Known Bugs
 
-_{N/A}_
+_N/A_
 
 ## Support and contact details
 
-_{Call Asia and Kinsey}_
+_Call Asia and Kinsey_
 
 ## Technologies Used
 
-_{HTML}_
-_{CSS}_
+_HTML_
+_CSS_
 
 ### License
 
-*{MIT license}*
+*MIT license*
 
-Copyright (c) 2016 **_{Asia Kane and Jennifer Kinsey}_**
+Copyright (c) 2016 **_Asia Kane and Jennifer Kinsey_**
